@@ -1,7 +1,7 @@
 # Bolywood Celebrity Classifier
 ![SITE_UI](https://user-images.githubusercontent.com/83386252/233857784-d4cb7278-d2f6-4d7a-aac9-15187f146a5f.png)
 
-In this data science and machine learning project, I classify bolywood personalities. I restrict classification to only 5 people,
+## In this data science and machine learning project, I classify bolywood personalities. I restrict classification to only 5 people,
 - Ayushman Khurana
 - Hrithik Roshan
 - Kriti Sanon
