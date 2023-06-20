@@ -9,13 +9,13 @@ In this data science and machine learning project, I classify bolywood personali
 - Shah Rukh Khan
 
 
-The folder structure,
+### The folder structure,
 - UI : This contains ui website code
 - server: Python flask server
 - model: Contains python notebook for model building
 
 
-Technologies used in this project,
+### Technologies used in this project,
 1. Python
 2. Numpy and OpenCV for data cleaning
 3. Matplotlib & Seaborn for data visualization
